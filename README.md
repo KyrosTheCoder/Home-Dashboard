@@ -144,6 +144,4 @@ instance/                 # wird automatisch angelegt (SQLite-DB, .gitignore't)
 
 ## 📄 Lizenz
 
-Noch keine Lizenz vergeben — füge z. B. eine `LICENSE`-Datei (MIT/Apache-2.0)
-hinzu, bevor du das Repository veröffentlichst, falls andere den Code
-verwenden dürfen sollen.
+MIT
