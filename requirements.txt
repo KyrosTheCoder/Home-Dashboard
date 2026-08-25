@@ -1,0 +1,18 @@
+# --- Kern-Abhängigkeiten (immer nötig) --------------------------------
+flask>=3.0
+flask-socketio>=5.3
+requests>=2.31
+
+# --- Optional: Personenerkennung / Heimüberwachung ---------------------
+# Nur nötig, wenn "Personenerkennung aktivieren" in den Einstellungen
+# eingeschaltet wird. Ohne diese Pakete läuft der Rest des Dashboards
+# ganz normal weiter, die Kameras-Seite zeigt dann einen Hinweis.
+opencv-python-headless>=4.9
+ultralytics>=8.2
+numpy>=1.26
+
+# --- Optional: Browser-Push-Benachrichtigungen --------------------------
+# Nur nötig für Push-Benachrichtigungen direkt im Browser (Einstellungen
+# -> Heimüberwachung -> Benachrichtigungen). Ohne dieses Paket bleibt nur
+# diese eine Funktion deaktiviert.
+pywebpush>=2.0
