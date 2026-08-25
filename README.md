@@ -14,6 +14,8 @@ Rutsch zu kopieren/deployen (z. B. auf einen Raspberry Pi).
 <img width="2670" height="1240" alt="grafik" src="https://github.com/user-attachments/assets/ab3c036d-b9f1-487e-b965-25f6a1ad17fc" />
 <img width="2664" height="1692" alt="grafik" src="https://github.com/user-attachments/assets/538a41d1-9aaf-4c53-a45c-bc94430990e2" />
 <img width="2718" height="1488" alt="grafik" src="https://github.com/user-attachments/assets/1f3db957-3aa7-41d4-898f-efa8d1ee2b85" />
+<img width="2734" height="1110" alt="grafik" src="https://github.com/user-attachments/assets/419ef321-6d60-456e-b837-012cd99b0b6f" />
+
 
 
 
